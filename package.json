@@ -1,0 +1,16 @@
+{
+  "name": "Serviciodepizzas",
+  "version": "1.0.0",
+  "description": "Serviciodepizzas",
+  "license": "ISC",
+  "author": "Evelin Duran",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
